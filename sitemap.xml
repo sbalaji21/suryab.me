@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/</loc>
+  <lastmod>2020-10-14T17:41:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/adolfo-delgado/</loc>
+  <lastmod>2020-10-11T14:34:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/research/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication_type/journal/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication_type/conference/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication_type/patents/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/facility/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/facility/thrust-collar-test-rig/</loc>
+  <lastmod>2020-01-31T09:56:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/facility/whip-and-whirl-test-rig/</loc>
+  <lastmod>2020-10-11T20:37:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people_type/students/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people_type/former-students/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/contact-us/</loc>
+  <lastmod>2020-10-11T10:42:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/contact-us/open-positions/</loc>
+  <lastmod>2020-10-11T10:51:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/research/dynamic-characterization-of-fully-partitioned-damper-seals/</loc>
+  <lastmod>2020-10-10T11:16:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/research/effect-of-viscosity-on-esp-performance-using-cfd/</loc>
+  <lastmod>2020-01-31T10:09:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/research/esp-bearing-erosion-experimental-and-simulation-study/</loc>
+  <lastmod>2020-01-31T10:10:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/research/terry-turbine/</loc>
+  <lastmod>2020-01-31T14:34:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/research/wear-and-dynamic-performance-of-interstage-seals-for-esps/</loc>
+  <lastmod>2020-01-31T10:16:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/effect-of-leakage-flow-path-wear-on-axial-thrust-in-downhole-electrical-submersible-pump-unit/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/extending-classical-friction-loss-modeling-to-predict-the-viscous-performance-of-pumping-devices/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/centrifugal-pump-head-prediction-using-affinity-laws-modified-for-viscosity/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/centrifugal-pump-head-prediction-using-affinity-laws-modified-for-viscosity-2/</loc>
+  <lastmod>2020-10-11T14:29:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/static-and-dynamic-coefficient-measurements-for-a-thrust-collar-used-in-an-integrally-geared-compressor/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/hermetically-sealed-squeeze-film-damper-for-operation-in-oil-free-environments/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/compliant-hybrid-gas-bearing-using-modular-hermetically-sealed-squeeze-film-dampers/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/dynamic-characterization-of-a-novel-externally-pressurized-compliantly-damped-gas-lubricated-bearing-with-hermetically-sealed-squeeze-film-damper-modules/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/dynamic-characterization-of-a-novel-externally-pressurized-compliantly-damped-gas-lubricated-bearing-with-hermetically-sealed-squeeze-film-damper-modules-2/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/compliant-hybrid-gas-bearing-using-modular-hermetically-sealed-squeeze-film-dampers-2/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/page/2/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/page/3/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/page/4/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/dynamic-force-coefficients-of-hydrostatic-gas-films-for-recessed-flat-plates-experimental-identification-and-numerical-predictions/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/identification-of-force-coefficients-in-a-squeeze-film-damper-with-a-mechanical-seal-large-contact-force/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/a-model-for-improved-prediction-of-force-coefficients-in-grooved-squeeze-film-dampers-and-oil-seal-rings/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/rotordynamic-force-coefficients-of-a-hybrid-brush-seal-measurements-and-predictions/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication_type/journal/page/2/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/hermetically-sealed-squeeze-film-damper-for-operation-in-oil-free-environments-2/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/dynamic-characterization-of-an-integral-squeeze-film-bearing-support-damper-for-a-supercritical-co2-expander/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/the-impact-of-pad-flexibility-on-the-rotordynamic-coefficients-of-tilting-pad-journal-bearings/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/experimental-identification-of-dynamic-force-coefficients-for-a-110-mm-compliantly-damped-hybrid-gas-bearing/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/rotordynamic-force-coefficients-for-three-types-of-annular-gas-seals-with-inlet-preswirl-and-high-differential-pressure-ratio/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/a-novel-bulk-flow-model-for-improved-predictions-of-force-coefficients-in-grooved-oil-seals-operating-eccentrically/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/identification-and-prediction-of-force-coefficients-in-a-five-pad-and-four-pad-tilting-pad-bearing-for-load-on-pad-and-load-between-pad-configurations/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication_type/conference/page/2/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/burak-ayyildiz/</loc>
+  <lastmod>2020-09-15T10:21:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/surya-balaji/</loc>
+  <lastmod>2020-09-20T18:12:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/oreana-camera/</loc>
+  <lastmod>2020-09-20T18:05:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/anthony-dudlo/</loc>
+  <lastmod>2020-09-15T10:23:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/travis-greenstreet/</loc>
+  <lastmod>2020-09-15T10:20:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/seung-hyeop-hyun/</loc>
+  <lastmod>2020-09-20T17:59:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/marie-kasprzyk/</loc>
+  <lastmod>2020-09-11T13:46:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/sean-mcclean/</loc>
+  <lastmod>2020-10-11T21:10:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/andrew-moody/</loc>
+  <lastmod>2020-08-28T13:08:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/william-b-moore/</loc>
+  <lastmod>2020-09-20T18:13:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people_type/students/page/2/</loc>
+  <lastmod>2020-10-14T22:52:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/robert-hure/</loc>
+  <lastmod>2020-08-28T12:49:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/thomas-kerr/</loc>
+  <lastmod>2020-08-28T12:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/jonathan-thiele/</loc>
+  <lastmod>2020-08-28T12:49:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/joshua-vandervort/</loc>
+  <lastmod>2020-08-28T12:49:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/achieving-a-10-year-esp-run-life/</loc>
+  <lastmod>2020-10-11T14:29:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/rotordynamic-evaluation-of-full-scale-rotor-on-tilting-pad-bearings-with-integral-squeeze-film-dampers/</loc>
+  <lastmod>2020-10-11T14:29:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/dynamic-characterization-of-tilting-pad-journal-bearings-from-component-and-system-level-testing/</loc>
+  <lastmod>2020-10-11T14:29:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/rotordynamic-force-coefficients-of-a-hybrid-brush-seal-measurements-and-predictions-2/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/nonlinear-identification-of-mechanical-parameters-in-a-squeeze-film-damper-with-integral-mechanical-seal/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/measurements-of-leakage-and-power-loss-in-a-hybrid-brush-seal-2/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/identification-of-force-coefficients-in-a-squeeze-film-damper-with-a-mechanical-end-seal-centered-circular-orbit-tests/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/analysis-of-performance-and-rotordynamic-force-coefficients-of-brush-seals-with-reverse-rotation-ability/</loc>
+  <lastmod>2020-10-11T14:27:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/measurements-of-leakage-and-power-loss-in-a-hybrid-brush-seal/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/identification-of-structural-stiffness-and-damping-coefficients-of-a-shoed-brush-seal-2/</loc>
+  <lastmod>2020-10-11T14:29:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/identification-of-structural-stiffness-and-damping-coefficients-of-a-shoed-brush-seal/</loc>
+  <lastmod>2020-10-11T14:20:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/identification-of-force-coefficients-in-a-squeeze-film-damper-with-a-mechanical-end-seal-centered-circular-orbit-tests-2/</loc>
+  <lastmod>2020-10-11T14:29:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/publication/measurements-of-leakage-structural-stiffness-and-energy-dissipation-parameters-in-a-shoed-brush-seal/</loc>
+  <lastmod>2020-10-11T14:29:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://turboreliability.engr.tamu.edu/people/wenjie-yin/</loc>
+  <lastmod>2020-08-28T12:49:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
